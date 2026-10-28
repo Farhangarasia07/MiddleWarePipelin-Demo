@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|c:\\users\\danie\\onedrive\\documents\\learning c#\\backend\\companyemployees\\companyemployees\\extensions\\serviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\extensions\\serviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|c:\\users\\danie\\onedrive\\documents\\learning c#\\backend\\companyemployees\\companyemployees\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|c:\\users\\danie\\onedrive\\documents\\learning c#\\backend\\companyemployees\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD515DA0-EADE-4B7A-8604-E33ABB3C5229}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "CompanyEmployees\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\appsettings.Production.json",
+              "RelativeToolTip": "CompanyEmployees\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T23:39:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\Program.cs",
+              "RelativeToolTip": "CompanyEmployees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:00:02.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtentions.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Extensions\\ServiceExtentions.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Documents\\Learning C#\\Backend\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtentions.cs",
+              "RelativeToolTip": "CompanyEmployees\\Extensions\\ServiceExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:22:08.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
