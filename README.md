@@ -122,31 +122,3 @@ CompanyEmployees/
 └── README.md                       # This file
 ```
 
-## ⚠️ Note
-
-This is a learning/demo project focused on understanding middleware concepts. In the current implementation, `app.MapControllers()` is placed after `app.Run()`, which means controllers won't be reachable. In production code, ensure routing middleware like `app.MapControllers()` comes before any terminal middleware.
-
-## 🔗 Repository
-
-GitHub: [https://github.com/Kingaer04/ASP.NET-Core-Middleware-Pipeline-Demo](https://github.com/Kingaer04/ASP.NET-Core-Middleware-Pipeline-Demo)
-
-## 📝 License
-
-This project is open source and available for educational purposes.
-
-## 👤 Author
-
-**Kingaer04**
-- GitHub: [@Kingaer04](https://github.com/Kingaer04)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Kingaer04/ASP.NET-Core-Middleware-Pipeline-Demo/issues).
-
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you understand ASP.NET Core middleware!
-
----
-
-**Happy Learning! 🚀**
